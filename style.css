@@ -57,3 +57,6 @@ body{background:#fffdfa;color:var(--ink)}header,dialog,#mobileMenu{background:#f
 
 /* Real wood photograph with a light wash for readable text. */
 .page-head{background-color:#e8decd;background-image:linear-gradient(90deg,rgba(255,253,247,.28),rgba(255,253,247,.12)),url('assets/wood.webp');background-size:cover;background-position:center 45%}footer{background-color:#e8decd;background-image:linear-gradient(rgba(255,253,247,.24),rgba(255,253,247,.24)),url('assets/wood.webp');background-size:cover;background-position:center 70%;color:#302b28}.page-head .breadcrumb,.page-head p,footer .footer-top p,footer .footer-bottom{color:#5e5348}.footer-bottom{border-color:#bbae9b}@media(max-width:700px){.page-head{background-size:auto,auto 520px}footer{background-size:auto,auto 750px}}
+
+/* Photographic leaf veins behind the collection. */
+.discovery{background-color:#183326;background-image:linear-gradient(90deg,rgba(9,27,17,.62),rgba(9,27,17,.42)),url('assets/leaf.webp');background-position:center;background-size:cover;color:#fff}.discovery-heading{text-shadow:0 1px 10px #0004}.discovery-card{box-shadow:0 4px 18px #07150d18}@media(max-width:700px){.discovery{background-position:52% center}}
