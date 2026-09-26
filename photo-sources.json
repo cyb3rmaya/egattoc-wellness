@@ -10,5 +10,10 @@
     "license": "Unsplash License"
   },
   "products": "Original EGATTOC product photographs",
-  "event": "EGATTOC public website photograph"
+  "event": "EGATTOC public website photograph",
+  "wood": {
+    "source": "https://unsplash.com/s/photos/wood-grain",
+    "image": "https://images.unsplash.com/photo-1611072337226-1140ab367200",
+    "license": "Unsplash License"
+  }
 }
